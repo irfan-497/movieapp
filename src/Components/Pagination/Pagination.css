@@ -1,0 +1,11 @@
+.btn{
+    display: flex;
+    border: 2px solid black;
+    margin:10px 5px;
+    font-size: 20px;
+}
+
+.head{
+    display: flex;
+    margin-left: 450px;
+}
